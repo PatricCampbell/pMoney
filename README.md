@@ -30,10 +30,7 @@ $p('#pMoney-rules');
 $p can also be used to create a new DOMNodeCollection from HTMLElement objects. This will allow the HTMLElements to use all of the pMoney functions.
 
 #### Building new HTMLElements
-Raw strings of html elements can be wrapped in $p. This will create a DOMNodeCollection object that contains a HTMLElement object with the code inside the string. To create a new ul with li inside:
-``` javascript
-$p('<ul class="my-ul"'><li></li><li></li></ul>);
-```
+HTMLElement objcts can be wrapped in $p. This will create a DOMNodeCollection object that contains the HTMLElement object.
 
 #### Building a Queue of Functions to Run Once the DOM is Loaded
 Lastly, adding an anonymous function inside $p will run the function when the DOM has been completely loaded. Anything in the function is queued until this time.
