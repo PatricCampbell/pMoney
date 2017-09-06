@@ -90,4 +90,4 @@ pMoney contains an easy to use ajax function to make ajax requests. This returns
 ```
 
 # Example Project
-TODO: Add example project here when done.
+A demo of pMoney can be found at [FoodMe](https://github.com/PatricCampbell/FoodMe). To use it, clone the repository and open index.html in your browser.
