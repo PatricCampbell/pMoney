@@ -1,3 +1,6 @@
+# Example Project
+A demo of pMoney can be found at [FoodMe](https://github.com/PatricCampbell/FoodMe). To use it, clone the repository and open index.html in your browser.
+
 # pMoney
 
 pMoney is a DOM manipulation library inspired by jQuery written in vanilla JavaScript. It contains the following functionality:
@@ -88,6 +91,3 @@ pMoney contains an easy to use ajax function to make ajax requests. This returns
     data: "",
     contentType: 'application/x-www-form-urlencoded; charset=UTF-8'
 ```
-
-# Example Project
-A demo of pMoney can be found at [FoodMe](https://github.com/PatricCampbell/FoodMe). To use it, clone the repository and open index.html in your browser.
