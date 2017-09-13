@@ -1,5 +1,5 @@
 # Example Project
-A demo of pMoney can be found at [FoodMe](https://github.com/PatricCampbell/FoodMe). To use it, clone the repository and open index.html in your browser.
+A demo of pMoney can be found at [FoodMe](https://github.com/PatricCampbell/FoodMe).
 
 # pMoney
 
